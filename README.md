@@ -1,6 +1,9 @@
 # vki_hesap
 
-Boy/Kitle Endeksi Hesaplar
+Boy/Kitle Endeksi Hesaplar 
+
+Hakkımda : 
+Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 183311018 numaralı Öğrenci Berkay KILIÇ tarafından 30 Nisan 2021 günü yapılmıştır.
 
 ## Getting Started
 
